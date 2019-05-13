@@ -19,6 +19,9 @@ Para executar o projeto, basta executar o comando:
 
 * gradlew bootRun
 
+Caso já tenha o jar em mãos, basta executar
+* java -jar {nome_do_jar}.jar
+
 ### Acessando
 Agora, basta abrir o seu navegador e acessar (http://localhost:9090) ou clicar no link abaixo:
 * [Acesso](http://localhost:9090)
